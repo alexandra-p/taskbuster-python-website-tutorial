@@ -2,10 +2,10 @@
 from selenium import webdriver
 import unittest
 from django.core.urlresolvers import reverse
-from django.contrib.staticfiles.testing import LiveServerTestCase
+from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 
 
-class HomeNewVisitorTest(LiveServerTestCase):
+class HomeNewVisitorTest(StaticLiveServerTestCase):
 
     def setUp(self):
         self.browser = webdriver.Firefox()
