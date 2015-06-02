@@ -2,3 +2,5 @@ __pycache__/
 db.sqlite3
 .coverage
 htmlcov
+taskbuster/settings/development.py
+taskbuster/settings/production.py
