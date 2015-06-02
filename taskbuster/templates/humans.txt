@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alexandra Paun -- trainee -- @AlexPaun
+
 
 # THANKS
 
-    <name>
+    Marina Mele for her awesome tutorial.
 
 # TECHNOLOGY COLOPHON
 
